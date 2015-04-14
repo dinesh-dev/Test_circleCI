@@ -1,3 +1,3 @@
 test:
-  override:
-    - java ./main.java --unit-tests
+ 
+    -java main
