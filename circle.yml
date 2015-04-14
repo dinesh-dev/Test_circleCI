@@ -1,8 +1,0 @@
-general:
-  build_dir: src/junitexample
-  
-  
-mvn dependency:resolve
-
-test:
- - java TriangleTest.java
