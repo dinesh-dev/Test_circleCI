@@ -1,4 +1,3 @@
-package junitexample;
 
 import org.junit.After;
 import org.junit.AfterClass;

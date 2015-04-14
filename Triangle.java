@@ -1,4 +1,3 @@
-package junitexample;
 
 
 public class Triangle {
