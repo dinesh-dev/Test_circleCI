@@ -1,3 +1,4 @@
-test:
- 
-    -java main
+machine
+
+java:
+	version: oraclejdk8
