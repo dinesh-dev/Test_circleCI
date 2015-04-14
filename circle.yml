@@ -1,0 +1,3 @@
+test:
+  override:
+    - java ./test/TriangleTest.java --unit-tests
